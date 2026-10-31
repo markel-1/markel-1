@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет, я Марк! 👋
 
-<!--
-**markel-1/markel-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Обо мне
 
-Here are some ideas to get you started:
+- 🎓 Студент
+- 💼 Работаю с: Python, Figma, Photoshop, Git
+- 🌱 Сейчас изучаю: Adobe Premiere
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🛠️ Мой стек
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+</p>
+
+---
+
+## 📊 Статистика GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true)
